@@ -1,4 +1,3 @@
 # VAN-ICP
-GPU-Acclerated ICP via Voxel dilAtioN(VAN)
 
-VAN-ICP: GPU-ACCELERATED APPROXIMATE NEAREST NEIGHBOR SEARCH FOR ICP REGISTRATION VIA VOXEL DILATION
+VAN-ICP: GPU-Accelerated Approximate Nearest Neighbor Search for ICP Registration via Voxel Dilation
