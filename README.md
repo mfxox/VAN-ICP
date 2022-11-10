@@ -6,7 +6,7 @@ This repository is the efficient CUDA implementation of VAN-ICP (Voxel-dilAtioN-
 
 ## Voxel Dilation
 
-Voxel maps with different dilation layers (0-10) at the voxel resolution of 4. As the number of dilation layers increases, overlap areas increase.
+Voxel maps with different dilation layers (0-10) at the voxel resolution of 4. Colors indicate indexes of root voxels, namely voxels with the same color are dilated from the same root voxel. As the number of dilation layers increases, overlap areas expand. As the number of dilation layers increases, overlap areas increase.
 
 <p align="middle">
   <img src="img/dilation.gif" width="400" />
